@@ -1,5 +1,5 @@
 
-##  ASSIGNMENT 2 , R PROGRAMMING
+##  ASSIGNMENT 2 INVERS OF A MATRIX , R PROGRAMMING
 
 ## The following two functions are used to cache the inverse of a matrix
 
